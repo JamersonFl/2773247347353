@@ -30,7 +30,7 @@ switch (_side) do
 		_return = [
 			["civ_spawn_1","Georgetown","\a3\ui_f\data\map\MapControl\watertower_ca.paa"],
 			["civ_spawn_2","Lijnhaven","\a3\ui_f\data\map\MapControl\watertower_ca.paa"],
-			["civ_spawn_3","Katkoula","\a3\ui_f\data\map\MapControl\watertower_ca.paa"],
+			["civ_spawn_3","Tanouka","\a3\ui_f\data\map\MapControl\watertower_ca.paa"],
 			["civ_spawn_4","La Rochelle","\a3\ui_f\data\map\MapControl\watertower_ca.paa"]
 		];
 
